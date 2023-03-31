@@ -13,7 +13,7 @@ https://github.com/Ekaterishe4ka/Yatube
 https://github.com/Ekaterishe4ka/api_final_yatube
 
 3. API для базы данных произведений с отзывами и комментариями
-https://github.com/Ekateriwe4ka/api_yamdb
+[[https://ghttps://github.com/Ekaterishe4ka/api_yamdb)](https://github.com/Ekaterishe4ka/api_yamdb)
 
 4. Telegram-бот, для отслеживания статуса домашней работы на Яндекс.Практикуме
 https://github.com/Ekaterishe4ka/telegram_bot
