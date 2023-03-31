@@ -1,6 +1,8 @@
 # Всем привет! Меня зовут Екатерина и я Python-разработчик👋 
 
-## Стек: Python / Django / Django REST Framework / SQL / SQLite / PostgreSQL/ / HTML5 / CSS / Yandex.Cloud / Docker / Nginx / Pytest
+## Стек: 
+
+Python / Django / Django REST Framework / SQL / SQLite / PostgreSQL/ / HTML5 / CSS / Yandex.Cloud / Docker / Nginx / Pytest
 
 Мои учебные проекты: 
 
