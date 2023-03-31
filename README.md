@@ -4,7 +4,7 @@
 
 Python / Django / Django REST Framework / SQL / SQLite / PostgreSQL/ / HTML5 / CSS / Yandex.Cloud / Docker / Nginx / Pytest
 
-Мои учебные проекты: 
+## Мои учебные проекты: 
 
 1. Yatube - социальная сеть для публикации личных записей в тематических сообществах.
 https://github.com/Ekaterishe4ka/Yatube
