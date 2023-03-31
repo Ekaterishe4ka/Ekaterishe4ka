@@ -2,7 +2,7 @@
 
 ## Стек: 
 
-Python / Django / Django REST Framework / SQL / SQLite / PostgreSQL/ / HTML5 / CSS / Yandex.Cloud / Docker / Nginx / Pytest
+Python / Django / Django REST Framework / SQL / SQLite / PostgreSQL / HTML5 / CSS / Yandex.Cloud / Docker / Nginx / Pytest
 
 ## Мои учебные проекты: 
 
